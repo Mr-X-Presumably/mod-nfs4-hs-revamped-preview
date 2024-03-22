@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img width="1061" height="796" src="https://github.com/DJD777/mod-nfs4-hs-revamped/assets/85384255/363754f3-2022-4d66-ad06-023fd5f1ba94">
+  <img width="1061" height="796" src="https://github.com/Mr-X-Presumably/mod-nfs4-hs-revamped-preview/assets/85384255/1361e2cb-9c0d-4228-af36-c2ee827e7391">
 </p>
 
 <h2>About This Mod</h2>
