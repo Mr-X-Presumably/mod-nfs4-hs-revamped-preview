@@ -24,3 +24,6 @@ This is a fully revamped version of Need for Speed 4: High Stakes (PC) with the 
 
 <h2>Note</h2>
 Because probably 80% of the new assets introduced by this mod come from other modders without their permission, forks, downloads, and pull requests will <i>not</i> be permitted.
+<br />
+<br />
+If asked nicely, I may provide a copy of the mod on an exclusively private basis, and with the <b><i>express conditions</i> that <i>nothing</i> from the mod be uploaded publicly; redistributed in <i>any</i> way, shape, or form; or be otherwise shared with anyone besides the user.</b> Any violations of these terms may subject you to legal actions from any of the copyright holders whose works are contained herein.
