@@ -14,7 +14,7 @@ This is a fully revamped version of Need for Speed 4: High Stakes (PC) with the 
 <ul>
   <li>Improved texture sets for nearly all tracks, as well as new modder-made models for <b>all</b> cars</li>
   <br />
-  <li>Improved modder-made asset implementations, with fixes by me for various inconsistencies, including (but not limited to) missing vidwalls, upgrades, interiors, showcases, color names, performance, sound, etc., to make everything fit in seamlessly into the vanilla game</li>
+  <li>Improved modder-made asset implementations, with fixes by me for various inconsistencies, including (but not limited to) missing vidwalls, upgrades, interiors, showcases, color names, performance, sound, damage modelling, driver models, traffic models, etc. to make everything fit in seamlessly into the vanilla game</li>
   <br />
   <li>Improved soundtrack for all non-original racing music tracks</li>
   <br />
